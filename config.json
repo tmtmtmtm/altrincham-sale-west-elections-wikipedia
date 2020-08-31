@@ -1,0 +1,17 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Altrincham_and_Sale_West_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q588969",
+    "start": "1997",
+    "end": "9999"
+  }, {
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate in Altrincham and Sale West",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
