@@ -1,0 +1,34 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q264662,Graham Brady,Q9626,Conservative Party (UK),26311,Q30173038,General election 2019,1
+Q76450765,Andrew Western,Q9630,Labour Party (UK),20172,Q30173038,General election 2019,2
+Q390949,Angela Smith,Q9624,Liberal Democrats (UK),6036,Q30173038,General election 2019,3
+,Geraldine Coggins,Q9669,Green Party of England and Wales,1566,Q30173038,General election 2019,4
+,Neil Taylor,Q3360801,"Liberal Party (UK, 1989)",454,Q30173038,General election 2019,5
+,Iram Kiani,Q327591,Independent politician,224,Q30173038,General election 2019,6
+Q264662,Graham Brady,Q9626,Conservative Party (UK),26933,Q25052149,General election 2017,1
+Q76450765,Andrew Western,Q9630,Labour Party (UK),20507,Q25052149,General election 2017,2
+Q63929022,Jane Brophy,Q9624,Liberal Democrats (UK),4051,Q25052149,General election 2017,3
+,Geraldine Coggins,Q9669,Green Party of England and Wales,1000,Q25052149,General election 2017,4
+,Neil Taylor,Q3360801,"Liberal Party (UK, 1989)",299,Q25052149,General election 2017,5
+Q264662,Graham Brady,Q9626,Conservative Party (UK),26771,Q3586935,General election 2015,1
+,James Wright,Q9630,Labour Party (UK),13481,Q3586935,General election 2015,2
+Q63929022,Jane Brophy,Q9624,Liberal Democrats (UK),4235,Q3586935,General election 2015,3
+,Chris Frost,Q10647,UK Independence Party,4047,Q3586935,General election 2015,4
+,Nick Robertson-Brown,Q9669,Green Party of England and Wales,1983,Q3586935,General election 2015,5
+Q264662,Graham Brady,Q9626,Conservative Party (UK),24176,Q215622,General election 2010,1
+Q63929022,Jane Brophy,Q9624,Liberal Democrats (UK),12581,Q215622,General election 2010,2
+,Tom Ross,Q9630,Labour Party (UK),11073,Q215622,General election 2010,3
+,Kenneth Bullman,Q10647,UK Independence Party,1563,Q215622,General election 2010,4
+Q264662,Graham Brady,Q9626,Conservative Party (UK),20569,Q428598,General election 2005,1
+,John Stockton,Q9630,Labour Party (UK),13410,Q428598,General election 2005,2
+,Ian Chappell,Q9624,Liberal Democrats (UK),9595,Q428598,General election 2005,3
+,Gary Peart,Q10647,UK Independence Party,736,Q428598,General election 2005,4
+Q264662,Graham Brady,Q9626,Conservative Party (UK),20113,Q590740,General election 2001,1
+,Jane Baugh,Q9630,Labour Party (UK),17172,Q590740,General election 2001,2
+,Christopher Gaskell,Q9624,Liberal Democrats (UK),6283,Q590740,General election 2001,3
+Q264662,Graham Brady,Q9626,Conservative Party (UK),22348,Q918503,General election 1997,1
+,Jane Baugh,Q9630,Labour Party (UK),20843,Q918503,General election 1997,2
+,Marc Ramsbottom,Q9624,Liberal Democrats (UK),6535,Q918503,General election 1997,3
+,Anthony Landes,Q278315,Referendum Party,1348,Q918503,General election 1997,4
+,Jonathan Stephens,Q7246665,ProLife Alliance,313,Q918503,General election 1997,5
+,Richard Mrozinski,Q10647,UK Independence Party,270,Q918503,General election 1997,6
